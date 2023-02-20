@@ -1,10 +1,11 @@
 # Data-Structures-and-Algorithms
 AGH University of Science and Technology Course
 
+This repository consists of 14 implementation tasks
 language: Python
 libraries: NumPy
 
-This repository consists of 14 implementation tasks:
+## Data Structures
 1 - Matrix Structure, Chio Determinant Method
 2 - Linked List
 3 - Circular Array
