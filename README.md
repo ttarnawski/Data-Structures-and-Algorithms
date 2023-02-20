@@ -2,6 +2,7 @@
 AGH University of Science and Technology Course
 
 This repository consists of 14 implementation tasks  
+  
 language: Python  
 libraries: NumPy  
 
