@@ -13,6 +13,8 @@ libraries: NumPy
 5 - Binary Search Tree
 6 - Priority Queue
 7 - Graph Structure
+
+## Algorithms
 8 - Heap Sort
 9 - Prim Algorithm
 10 - Ford-Fulkerson Algorithm
